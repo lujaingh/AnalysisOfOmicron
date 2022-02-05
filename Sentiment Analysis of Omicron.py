@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # This Research done by Lujain Ghazalat and Rand Agha
-
-# In[2]:
 
 
 '''
